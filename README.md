@@ -19,3 +19,21 @@ You can play it directly in your browser — no installation required!
 - **HTML5** – Structure of the game  
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6)** – Game logic and interactivity
+
+---
+
+## 🚀 **Live Demo**
+
+Play the game here 👇  
+👉 [https://yourusername.github.io/tic-tac-toe-game/](https://deepanshu4m.github.io/tic-tac-toe-game/)  
+
+---
+
+## 🧠 **Features**
+
+- Clean and responsive design  
+- Winner detection logic  
+- Restart and New Game options  
+- Simple, lightweight, and mobile-friendly
+
+---
